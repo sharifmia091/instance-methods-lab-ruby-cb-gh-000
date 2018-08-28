@@ -7,4 +7,3 @@ class Dog
     puts "Dog is sitting"
   end
 end
-
